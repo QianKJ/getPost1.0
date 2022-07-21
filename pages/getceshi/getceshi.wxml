@@ -1,0 +1,4 @@
+<!--pages/getceshi/getceshi.wxml-->
+<button  bindtap="goback" class="submitBtn" size="default" type="primary" >
+       跳转到post请求测试
+      </button>
